@@ -1,4 +1,4 @@
-# ACF Videso Field
+# ACF Videos Field
 
 Welcome to the Advanced Custom Fields FIELD_LABEL repository on Github.
 
